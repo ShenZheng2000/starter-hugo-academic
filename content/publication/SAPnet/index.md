@@ -12,9 +12,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Major Contribution"
-- "Contribution"
-
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2021-11-07T00:00:00Z"
 doi: ""
@@ -86,6 +85,5 @@ slides: example
 比如
 Click here to see [WACV](www.google.com).
 这个格式
-
 
 
