@@ -10,6 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
+- "Major Contribution"
+- "Contribution"
 
 date: "2021-10-01T00:00:00Z"
 doi: ""
