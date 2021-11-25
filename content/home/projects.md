@@ -28,9 +28,13 @@ content:
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+    tag: DL
+  - name: Machine Learning
+    tag: ML
+  - name: Computer Vision
+    tag: CV
+  - name: Computer Graphic
+    tag: CG
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
