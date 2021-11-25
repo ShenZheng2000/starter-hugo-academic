@@ -1,14 +1,12 @@
 ---
-title: "TODO"
+title: "Efficient Ensemble Sparse Convolutional Neural Networks with Dynamic Batch Size"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yuxiong Wu
-- Shiyu Jiang
-- Changjie Lu
+- Liwei Wang
 - Gaurav Gupta
 
 # Author notes (optional)
@@ -29,13 +27,13 @@ publishDate: "2021-09-23T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Joint Conference on Neural Networks*
-publication_short: In *IJCNN*
+publication: In *International Conference on Computer Vision and Image Processing*
+publication_short: In *CVIP*
 
-abstract: Object detection has been a traditional yet open computer vision research field. In intensive studies, object detection models have achieved promising results regarding recognition accuracy and inference speed. However, previous state-of-the-art algorithms fail to operate at blurry images. In this work, we propose Deblur-YOLO, an efficient, YOLO-based and detection-driven approach robust to motion blur photographs. We introduce a generative adversarial network with a dilated feature pyramid generator, a pair of multi-scale discriminators with spectral normalization, and a detection discriminator. We design a new image quality metric called Smooth Peak Signal-to-Noise Ratio (SPSNR) for measuring the smoothness of the reconstructed image. Empirical studies on benchmark datasets demonstrate Deblur-YOLO's superiority. On COCO 2014, Set 5 and Setl4, Deblur-YOLO achieves leading results for parameters, deblurring time, PSNR, SPSNR and SSIM. We also visually display the excellence of our deblurring performance to competing models.
+abstract: In this paper, an efficient ensemble sparse Convolutional Neural Networks (CNNs) with dynamic batch size is proposed. We addressed two issues at the heart of deep learning—speed and accuracy. Firstly, we presented ensemble CNNs with weighted average stacking which significantly increases the testing accuracy. Secondly, we combine network pruning and Winograd-ReLU convolution to accelerate computational speed. Motivated by electron movement in electrical fields, we finally propose a novel, dynamic batch size algorithm. We repeatedly increase the learning rate and the momentum coefficient until validation accuracy falls, while scaling the batch size. With no data augmentation and little hyperparameter tuning, our method speeds up models on FASHION-MINST, CIFAR-10, and CIFAR-100 to 1.55x, 2.86x, and 4.15x with a testing accuracy improvement of 2.66%, 1.37%, and 4.48%, respectively. We also visually demonstrate that our approach retains the most distinct image classification features during exhaustive pruning.
 
 # Summary. An optional shortened abstract.
-summary: A detection-driven generative adversarial network for joint motion deblurring and object detection. 
+summary: An efficient ensemble sparse Convolutional Neural Networks with dynamic batch size 
 
 # 这个tag就是下面的词云，每个publication都可以加上，在project这边也会有，所有那个词云能联想到所有项目
 tags: ["Computer Vision"]
