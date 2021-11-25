@@ -41,7 +41,7 @@ experience:
     company_logo: org-x
     location: Hangzhou, China
     date_start: '2019-07-01'
-    date_end: '2019-7-31'
+    date_end: '2019-7-30'
     description: |-2
         * Applied K-means clustering model to classify text data statewide as three significant categories to eliminate the risk from over 20,000 unannounced expired insurance from 7 cities
         * Employed t-test and Adjusted R Squared to help Sales Manager and General Manager deciding the bonus percentage for consecutive monthly sales as 6.00%
