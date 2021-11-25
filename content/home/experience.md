@@ -30,6 +30,8 @@ experience:
     date_start: '2021-09-06'
     date_end: ''
     description: |-2
+        Responsibilities include:
+        
         * Responsible for the long-tailed class imbalance problem of traffic light detection algorithms in L4 autonomous driving.
         * Implementation of CycleGAN to conduct unsupervised data augmentation, converting traffic light bulbs from left arrow to leftUturn arrow.
         * Utilized OpenCV and mmcv to categorize and crop traffic lights bulbs from 350357 frames according to color, pattern and lighting conditions.
@@ -41,8 +43,10 @@ experience:
     company_logo: org-x
     location: Hangzhou, China
     date_start: '2019-07-01'
-    date_end: '2019-08-01'
-    description: |-2
+    date_end: '2019-07-31'
+    description: |-2  
+        Responsibilities include:
+        
         * Applied K-means clustering model to classify text data statewide as three significant categories to eliminate the risk from over 20,000 unannounced expired insurance from 7 cities
         * Employed t-test and Adjusted R Squared to help Sales Manager and General Manager deciding the bonus percentage for consecutive monthly sales as 6.00%
 
