@@ -36,18 +36,6 @@ experience:
         * Implementation of CycleGAN to conduct unsupervised data augmentation, converting traffic light bulbs from left arrow to leftUturn arrow.
         * Utilized OpenCV and mmcv to categorize and crop traffic lights bulbs from 350357 frames according to color, pattern and lighting conditions.
         * Increased the classification accuracy for leftUturn traffic light from 78.41% to 87.27%, and the mean average precision from 93.01% to 94.80%.
-        
-  - title: Sales Analyst
-    company: China Life Insurance Company
-    company_url: 'https://www.e-chinalife.com/'
-    company_logo: org-x
-    location: Hangzhou, China
-    date_start: '2019-07-01'
-    date_end: '2019-07-31'
-    description: |-2  
-        Responsibilities include:
-        
-        * Applied K-means clustering model to classify text data statewide as three significant categories to eliminate the risk from over 20,000 unannounced expired insurance from 7 cities
         * Employed t-test and Adjusted R Squared to help Sales Manager and General Manager deciding the bonus percentage for consecutive monthly sales as 6.00%
 
 design:
