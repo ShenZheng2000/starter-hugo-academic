@@ -11,8 +11,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Major Contribution"
-- "Contribution"
 
 
 date: "2020-12-01T00:00:00Z"
@@ -85,7 +83,3 @@ slides: example
 比如
 Click here to see [url](https://ieeexplore.ieee.org/document/9534352).
 这个格式
-
-
-
-
