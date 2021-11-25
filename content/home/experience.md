@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Computer Vision Engineer 
+    company: Momenta
+    company_url: 'https://www.momenta.cn/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Suzhou, China
+    date_start: '2021-09-06'
+    date_end: ''
+    description: 
+    * Responsible for the long-tailed class imbalance problem of traffic light detection algorithms in L4 autonomous driving.
+    * Implementation of CycleGAN to conduct unsupervised data augmentation, converting traffic light bulbs from left arrow to leftUturn arrow.
+    * Utilized OpenCV and mmcv to categorize and crop traffic lights bulbs from 350357 frames according to color, pattern and lighting conditions.
+    * Increased the classification accuracy for leftUturn traffic light from 78.41% to 87.27%, and the mean average precision from 93.01% to 94.80%.
+        
+  - title: Sales Analyst
+    company: China Life Insurance Company
+    company_url: 'https://www.e-chinalife.com/'
+    company_logo: org-x
+    location: Hangzhou, China
+    date_start: '2019-07-01'
+    date_end: '2019-7-31'
+    description: 
+    * Applied K-means clustering model to classify text data statewide as three significant categories to eliminate the risk from over 20,000 unannounced expired     insurance from 7 cities
+    * Employed t-test and Adjusted R Squared to help Sales Manager and General Manager deciding the bonus percentage for consecutive monthly sales as 6.00%
 design:
   columns: '2'
 ---
