@@ -13,9 +13,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Major Contribution"
-- "Contribution"
-
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2021-07-01T00:00:00Z"
 doi: ""
@@ -87,7 +86,6 @@ slides: example
 比如
 Click here to see [url](https://ieeexplore.ieee.org/document/9534352).
 这个格式
-
 
 
 
