@@ -1,5 +1,5 @@
 ---
-title: "Deblur-YOLO: Real-Time Object Detection with Efficient Blind Motion Deblurring"
+title: "TODO"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
