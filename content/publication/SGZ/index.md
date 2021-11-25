@@ -10,8 +10,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 date: "2021-10-01T00:00:00Z"
 doi: ""
