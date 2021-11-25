@@ -46,7 +46,7 @@ social:
 - icon: code
   icon_pack: fas
   link: https://leetcode.com/LebronZheng
- - icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/ 
 
