@@ -1,7 +1,6 @@
 ---
 title: Isosurface Rendering 
-summary: Developed a fully convolutional neural network with Siren activation function to render isosurfaces with image resolution, viewpoints and isovalue.
-tags:
+summary: Implicit Neural Representation for Isosurface Rendering
 - Deep Learning
 - Computer Graphics
 date: "2016-04-27T00:00:00Z"
