@@ -1,6 +1,7 @@
 ---
 title: Isosurface Rendering 
 summary: Implicit Neural Representation for Isosurface Rendering
+tags:
 - Deep Learning
 - Computer Graphics
 date: "2016-04-27T00:00:00Z"
