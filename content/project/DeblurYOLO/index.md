@@ -3,6 +3,7 @@ title: Deblur-YOLO
 summary: Real-Time Object Detection with Efficient Blind Motion Deblurring
 tags:
 - Deep Learning
+- Computer Vision
 date: "2016-04-27T00:00:00Z"
 # tags就是project会归类到哪里，可以有多个tag
 
