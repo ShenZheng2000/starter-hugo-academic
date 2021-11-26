@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Deblur-YOLO
+summary: Real-Time Object Detection with Efficient Blind Motion Deblurring
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
