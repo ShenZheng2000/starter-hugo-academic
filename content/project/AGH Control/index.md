@@ -3,6 +3,7 @@ title: AGH Control
 summary: Asian Giant Hornet Control based on Image Processing and Biological Dispersal
 tags:
 - Deep Learning
+- Machine Learning
 - Computer Vision
 date: "2016-04-27T00:00:00Z"
 # tags就是project会归类到哪里，可以有多个tag
