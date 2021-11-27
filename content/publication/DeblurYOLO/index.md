@@ -54,7 +54,7 @@ url_code: 'https://github.com/ShenZheng2000/Deblur-YOLO'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://github.com/ShenZheng2000/starter-hugo-academic/blob/master/content/publication/DeblurYOLO/Slides_DeblurYOLO.pdf'
 url_source: ''
 url_video: ''
 
