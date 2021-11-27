@@ -6,7 +6,7 @@ title: Shen Zheng
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Enthuasist
+role: Machine Learning Enthusiast
 
 # Organizations/Affiliations to show in About widget
 organizations:
