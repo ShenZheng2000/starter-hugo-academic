@@ -41,7 +41,7 @@ experience:
     company_logo: UND
     location: Notre Dame, USA
     date_start: '2021-07-05'
-    date_end: '2020-09-05'
+    date_end: '2021-09-05'
     description: |2-
       * Selected as one of the only 15 students from China to participate in the iSURE research program hosted by the University of Notre Dame in 2021. 
       * Developed a fully convolutional neural network with Siren activation function to render isosurfaces with image resolution, viewpoints and isovalue.
