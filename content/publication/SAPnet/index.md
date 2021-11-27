@@ -60,7 +60,7 @@ url_video: 'https://www.youtube.com/watch?v=tJSsICHpsfs'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -79,10 +79,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-这里给你填abstract啥的
-如果你想加链节
-比如
-Click here to see [WACV](www.google.com).
-这个格式
 
 
