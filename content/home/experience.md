@@ -43,7 +43,9 @@ experience:
     date_start: '2021-07-05'
     date_end: '2020-09-05'
     description: |2-
-      * Developed
+      * Selected as one of the only 15 students from China to participate in the iSURE research program hosted by the University of Notre Dame in 2021. 
+      * Developed a fully convolutional neural network with Siren activation function to render isosurfaces with image resolution, viewpoints and isovalue.
+      * Leveraged Greene's bisection method and Jacobian matrix's eigenvalue for critical point detection and classification in the simulated 3D isosurface.
 
 design:
   columns: '2'
