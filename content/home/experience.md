@@ -26,7 +26,7 @@ experience:
     company: Momenta
     company_url: 'https://www.momenta.cn/'
     company_logo: Momenta
-    location: China
+    location: Suzhou, China
     date_start: '2021-09-06'
     date_end: ''
     description: |2-
@@ -35,14 +35,15 @@ experience:
       * Utilized OpenCV and mmcv to categorize and crop traffic lights bulbs from 350357 frames according to color, pattern and lighting conditions.
       * Increased the classification accuracy for leftUturn traffic light from 78.41% to 87.27%, and the mean average precision from 93.01% to 94.80%.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: University of Notre Dame
+    company_url: 'https://www.nd.edu/'
+    company_logo: UND
+    location: Notre Dame, USA
+    date_start: '2021-07-05'
+    date_end: '2020-09-05'
+    description: |2-
+      * Developed
 
 design:
   columns: '2'
