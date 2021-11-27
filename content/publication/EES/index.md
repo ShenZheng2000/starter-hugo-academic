@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Computer Vision and Image Processing*
-publication_short: In *CVIP*
+publication_short: In *CVIP 2020*
 
 abstract: In this paper, an efficient ensemble sparse Convolutional Neural Networks (CNNs) with dynamic batch size is proposed. We addressed two issues at the heart of deep learning—speed and accuracy. Firstly, we presented ensemble CNNs with weighted average stacking which significantly increases the testing accuracy. Secondly, we combine network pruning and Winograd-ReLU convolution to accelerate computational speed. Motivated by electron movement in electrical fields, we finally propose a novel, dynamic batch size algorithm. We repeatedly increase the learning rate and the momentum coefficient until validation accuracy falls, while scaling the batch size. With no data augmentation and little hyperparameter tuning, our method speeds up models on FASHION-MINST, CIFAR-10, and CIFAR-100 to 1.55x, 2.86x, and 4.15x with a testing accuracy improvement of 2.66%, 1.37%, and 4.48%, respectively. We also visually demonstrate that our approach retains the most distinct image classification features during exhaustive pruning.
 
