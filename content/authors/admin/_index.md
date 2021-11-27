@@ -14,12 +14,13 @@ organizations:
   url: https://wku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image restoration, image enhancement, object detection, semanctic segmentation, and scene reconstruction. 
+bio: A life-time programmer, a machine learning enthuasist, and a computer vision researcher.
 
 # Interests to show in About widget
 interests:
-- Computer Vision
 - Deep Learning 
+- Machine Learning
+- Computer Vision
 - Computer Graphics
 
 # Education to show in About widget
@@ -64,7 +65,8 @@ email: ""
 highlight_name: true
 ---
 
+Welcome! I am Shen Zheng (Lebron). I am a currently a computer vision engineer at Momenta, under the mentoring of Mr. Yongjun Yu and Dr. Wangjiang Zhu. Before joining Momenta, I received my Bachelor’s degree from Wenzhou-Kean University with a major in Mathematical Sciences and a minor in Economics. During my undergraduate study, I was lucky to have Dr. Gaurav Gupta as my academic and research supervisor. Apart from my study at Wenzhou-Kean University, I also attended the iSURE research program of the University of Notre Dame in 2021 and was fortunate to have Dr. Chaoli Wang as my research supervisor.
 
-Place for writing bio. I am ...
+My research interests include deep learning, computer vision, and computer graphics. I am currently working on self-supervised and unsupervised image restoration and enhancement, object detection, semantic segmentation, and 3D reconstruction. I aim to join a master's program in USA in 2022. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
