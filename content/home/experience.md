@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: CVE
     company: Momenta
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.momenta.cn/'
+    company_logo: Momenta
     location: China
     date_start: '2021-09-06'
     date_end: ''
