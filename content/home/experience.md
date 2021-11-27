@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Computer Vision Engineer
+  - title: CVE
     company: Momenta
     company_url: ''
-    company_logo: Momenta
-    location: Suzhou, China
+    company_logo: org-gc
+    location: China
     date_start: '2021-09-06'
     date_end: ''
     description: |2-
