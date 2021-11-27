@@ -49,13 +49,13 @@ featured: true
 
 # 不用填
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/ShenZheng2000/SAPNet-for-image-deraining'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=tJSsICHpsfs'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -70,8 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 # 这里可以联想到project
-projects:
-- SAPnet
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
