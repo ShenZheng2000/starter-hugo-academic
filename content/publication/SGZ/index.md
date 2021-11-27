@@ -47,13 +47,13 @@ featured: true
 
 # 不用填
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/ShenZheng2000/Semantic-Guided-Low-Light-Image-Enhancement'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=rN6Tf1E-kE8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -68,8 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 # 这里可以联想到project
-projects:
-- SGZ
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,10 +77,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-这里给你填abstract啥的
-如果你想加链节
-比如
-Click here to see [WACV](www.google.com).
-这个格式
 
 
