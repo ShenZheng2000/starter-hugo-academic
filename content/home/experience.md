@@ -47,16 +47,7 @@ experience:
       * Developed a fully convolutional neural network with Siren activation function to render isosurfaces with image resolution, viewpoints and isovalue.
       * Leveraged Greene's bisection method and Jacobian matrix's eigenvalue for critical point detection and classification in the simulated 3D isosurface.
     
-    - title: Sales Analyst Intern
-      company: China Life Insurance Company
-      company_url: 'https://www.chinalife.com.cn/chinalife/index/'
-      company_logo: ChinaLife
-      location: Hangzhou, China
-      date_start: '2019-07-01'
-      date_end: '2019-07-31'
-      description: |2-
-        * Applied K-means clustering model to classify text data statewide as three significant categories to eliminate the risk from over 20,000 unannounced expired insurance from 7 cities
-        * Employed t-test and Adjusted R Squared to help Sales Manager and General Manager deciding the bonus percentage for consecutive monthly sales as 6.00%
+
 
 design:
   columns: '2'
