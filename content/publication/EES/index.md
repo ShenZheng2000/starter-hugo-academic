@@ -69,8 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 # 这里可以联想到project
-projects:
-- EES
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -79,8 +78,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-这里给你填abstract啥的
-如果你想加链节
-比如
-Click here to see [url](https://ieeexplore.ieee.org/document/9534352).
-这个格式
+
