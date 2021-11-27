@@ -29,7 +29,7 @@ item:
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: 'Machine Learning Scientist with Python Track'
   url: ""
 
 design:
