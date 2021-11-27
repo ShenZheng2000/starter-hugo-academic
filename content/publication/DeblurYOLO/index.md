@@ -72,7 +72,7 @@ image:
 #   Otherwise, set `projects: []`.
 # 这里可以联想到project
 projects:
-- example
+- DeblurYOLO
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
