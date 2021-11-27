@@ -31,9 +31,10 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
+        * Responsible for the long-tailed class imbalance problem of traffic light detection algorithms in L4 autonomous driving.
+        * Implementation of CycleGAN to conduct unsupervised data augmentation, converting traffic light bulbs from left arrow to leftUturn arrow.
+        * Utilized OpenCV and mmcv to categorize and crop traffic lights bulbs from 350357 frames according to color, pattern and lighting conditions.
+        * Increased the classification accuracy for leftUturn traffic light from 78.41% to 87.27%, and the mean average precision from 93.01% to 94.80%.
         
   - title: Professor of Semiconductor Physics
     company: University X
