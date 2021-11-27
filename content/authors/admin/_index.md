@@ -65,7 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-Welcome! I am Shen Zheng (Lebron). I am a currently a computer vision engineer at Momenta, under the mentoring of Mr. Yongjun Yu and Dr. Wangjiang Zhu. Before joining Momenta, I received my Bachelor’s degree from Wenzhou-Kean University with a major in Mathematical Sciences and a minor in Economics. During my undergraduate study, I was lucky to have Dr. Gaurav Gupta as my academic and research supervisor. Apart from my study at Wenzhou-Kean University, I also attended the iSURE research program of the University of Notre Dame in 2021 and was fortunate to have Dr. Chaoli Wang as my research supervisor.
+Welcome! I am Shen Zheng (Lebron). I am a currently a computer vision engineer at Momenta, under the mentoring of Mr. Yongjun Yu and [Dr. Wangjiang Zhu](https://www.linkedin.com/in/%E6%9C%9B%E6%B1%9F-%E6%9C%B1-47946096/?originalSubdomain=cn). Before joining Momenta, I received my Bachelor’s degree from [Wenzhou-Kean University](https://wku.edu.cn/en/) with a major in Mathematical Sciences and a minor in Economics. During my undergraduate study, I was lucky to have [Dr. Gaurav Gupta](https://wku.edu.cn/faculty/gaurav-gupta/) as my academic and research supervisor. Apart from my study at Wenzhou-Kean University, I also attended the iSURE research program of the [University of Notre Dame](https://www.nd.edu/) in 2021 and was fortunate to have [Dr. Chaoli Wang](https://sites.nd.edu/chaoli-wang/) as my supervisor.
 
 My research interests include deep learning, computer vision, and computer graphics. I am currently working on self-supervised and unsupervised image restoration and enhancement, object detection, semantic segmentation, and 3D reconstruction. I aim to join a master's program in USA in 2022. 
 
