@@ -35,6 +35,8 @@ content:
     tag: CV
   - name: Computer Graphic
     tag: CG
+  - name: Graph Theory
+    tag: GT
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
