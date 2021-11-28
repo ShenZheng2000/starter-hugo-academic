@@ -1,6 +1,6 @@
 ---
 title: Asian Giant Hornet Control
-summary: Asian Giant Hornet Control based on Image Processing and Biological Dispersal
+summary: Asian Giant Hornet control based on image processing and biological dispersal
 tags:
 - Deep Learning
 - Machine Learning
