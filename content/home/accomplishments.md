@@ -34,7 +34,7 @@ item:
 
 - certificate_url: https://github.com/ShenZheng2000/starter-hugo-academic/blob/master/assets/media/icons/brands/Slides_Fudan.pdf
   date_end: "2021-03-26"
-  date_start: "2020-03-26"
+  date_start: "2021-03-26"
   description: ""
   organization: Fudan
   organization_url: https://www.fudan.edu.cn
