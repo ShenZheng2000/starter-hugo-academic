@@ -36,7 +36,7 @@ item:
   date_end: "2020-07-05"
   date_start: "2020-09-05"
   description: ""
-  organization: UND
+  organization: University of Notre Dame
   organization_url: https://www.nd.edu/
   title: 'iSURE Summer Research Program'
   url: ""
