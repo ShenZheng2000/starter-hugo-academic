@@ -1,6 +1,6 @@
 ---
-title: Agriculture-Fishery Industries
-summary: Analytics, Regressions and Recommendations for Agriculture-Fishery Industries in Mainland China
+title: Agriculture-Fishery Industry Analytics
+summary: Analytics, regressions, and recommendations for the Agriculture-Fishery Industry in Mainland China
 tags:
 - Deep Learning
 - Machine Learning
