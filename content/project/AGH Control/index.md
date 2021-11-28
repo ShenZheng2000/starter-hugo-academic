@@ -18,10 +18,6 @@ image:
 
 # 不要用url_X，直接加icon，如果paper可以加笔啥的，参考我的
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
