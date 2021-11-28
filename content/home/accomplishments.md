@@ -32,6 +32,16 @@ item:
   title: 'Machine Learning Scientist with Python Track'
   url: ""
 
+- certificate_url: https://github.com/ShenZheng2000/starter-hugo-academic/blob/master/assets/media/icons/brands/iSURE.pdf
+  date_end: "2020-07-05"
+  date_start: "2020-09-05"
+  description: ""
+  organization: University of Notre Dame
+  organization_url: https://www.nd.edu/
+  title: 'iSURE Summer Research Program'
+  url: ""
+
+
 design:
   columns: '2' 
 ---
