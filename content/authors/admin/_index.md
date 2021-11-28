@@ -14,7 +14,7 @@ organizations:
   url: https://wku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A life-time programmer, a machine learning enthuasist, and a computer vision researcher.
+bio: A lifetime programmer, a machine learning enthuasist, and a computer vision researcher.
 
 # Interests to show in About widget
 interests:
