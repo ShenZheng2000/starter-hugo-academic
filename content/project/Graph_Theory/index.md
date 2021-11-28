@@ -1,5 +1,5 @@
 ---
-title: Study of Graph Theory, Distributed Average Consensus Algorithm and Centralized Algorithm
+title: Graph Theory, Distributed and Centralized Algorithm
 summary: An survey for basic graphs, consensus algorithms, distributed average schemes, and centralized algorithms.
 tags:
 - Machine Learning
