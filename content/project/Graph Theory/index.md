@@ -3,7 +3,7 @@ title: Graph Theory
 summary: Study of Graph Theory, Distributed Average Consensus Algorithm and Centralized Algorithm
 tags:
 - Graph Theory
-date: "2016-04-27T00:00:00Z"
+date: "2021-12-15T00:00:00Z"
 # tags就是project会归类到哪里，可以有多个tag
 
 # Optional external URL for project (replaces project detail page).
@@ -16,10 +16,6 @@ image:
 
 # 不要用url_X，直接加icon，如果paper可以加笔啥的，参考我的
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
