@@ -1,10 +1,10 @@
 ---
-title: Agriculture-Fishery Industries
-summary: Analytics, Regressions and Recommendations for Agriculture-Fishery Industries in Mainland China
+title: Riemannian Noise Robust Generative Adversarial Network with Stochastic Bounds
+summary: a Generative Adversarial Network for image generation from unspecified noisy data.
 tags:
 - Deep Learning
 - Computer Vision
-date: "2016-04-27T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 # tags就是project会归类到哪里，可以有多个tag
 
 # Optional external URL for project (replaces project detail page).
@@ -12,7 +12,7 @@ external_link: ""
 
 # caption就相当于reference，这个图片是哪里来的，会显示在图像右下角
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 
 # 不要用url_X，直接加icon，如果paper可以加笔啥的，参考我的
@@ -36,12 +36,4 @@ url_video: ""
 
 ---
 类似简介abstract
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Generative Adversarial Network has achieved promising results for image generation tasks on benchmark datasets. However, those GAN models tend to generate images with fidelity when the training images are corrupted by noise. Recent methods like AmbientGAN and NRGAN either assume that the noise distribution is given or suffer from training instability. This restricts their application to real-world images accompanied by unspecified noise. In this paper, we propose a new architecture called Riemannian Noise Robust Generative Adversarial Network (RNRGAN), an image generation model robust to various types of noisy training images. Based upon NRGAN, RNRGAN replaces the Euclidian metric with the Riemannian metric for the loss function. This strategy imposes restrictions for the GAN objective function, thereby stabilizing the training process. We then exploit the reparameterization trick and propose a noise transformation technique to address different noise distributions and amounts. To ease the hyperparameter tuning process, we replace gradient penalty terms with a dynamic boundary which helps our model attains faster, better, and smoother convergence. Qualitative and Quantitative Comparisons demonstrate that RNRGAN outperforms various state-of-the-art image generators from noisy samples on the STL-10 and CelebA datasets. 
