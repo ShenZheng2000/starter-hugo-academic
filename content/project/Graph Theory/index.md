@@ -2,7 +2,7 @@
 title: Graph Theory
 summary: Study of Graph Theory, Distributed Average Consensus Algorithm and Centralized Algorithm
 tags:
-- Graph Theory
+- Machine Learning
 date: "2021-12-15T00:00:00Z"
 # tags就是project会归类到哪里，可以有多个tag
 
