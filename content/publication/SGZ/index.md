@@ -53,7 +53,7 @@ url_supp: 'https://github.com/ShenZheng2000/starter-hugo-academic/blob/master/co
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=rN6Tf1E-kE8'
+url_video: 'https://www.youtube.com/watch?v=SrNMPqQFncY'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
