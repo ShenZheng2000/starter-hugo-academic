@@ -22,6 +22,7 @@ interests:
 - Machine Learning
 - Computer Vision
 - Computer Graphics
+- Graph Theory
 
 # Education to show in About widget
 education:
