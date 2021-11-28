@@ -33,8 +33,6 @@ content:
     tag: ML
   - name: Computer Vision
     tag: CV
-  - name: Computer Graphic
-    tag: CG
   - name: Graph Theory
     tag: GT
 
