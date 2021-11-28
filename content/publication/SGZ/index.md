@@ -48,7 +48,7 @@ featured: true
 # 不用填
 url_pdf: ''
 url_code: 'https://github.com/ShenZheng2000/Semantic-Guided-Low-Light-Image-Enhancement'
-url_dataset: 'https://pan.baidu.com/s/1--xG3uNuH_9rKzcHpQKqgQ'
+url_dataset: ''
 url_supp: 'https://github.com/ShenZheng2000/starter-hugo-academic/blob/master/content/publication/SGZ/SGZ_supp.pdf'
 url_project: ''
 url_slides: ''
