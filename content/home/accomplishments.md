@@ -36,7 +36,7 @@ item:
   date_end: "2021-03-26"
   date_start: "2020-03-26"
   description: ""
-  organization: Fudan
+  organization: UND
   organization_url: https://www.fudan.edu.cn
   title: 'Invited Talk: Image Processing with Machine Learning'
   url: ""
