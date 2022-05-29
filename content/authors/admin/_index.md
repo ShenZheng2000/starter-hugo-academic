@@ -10,8 +10,8 @@ role: Machine Learning Enthusiast
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wenzhou-Kean University
-  url: https://wku.edu.cn/
+- name: Carnegie Mellon University
+  url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: A lifetime programmer, a machine learning enthuasist, and a computer vision researcher.
