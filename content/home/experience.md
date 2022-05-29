@@ -30,10 +30,10 @@ experience:
     date_start: '2021-09-06'
     date_end: ''
     description: |2-
-      * Responsible for the long-tailed class imbalance problem of traffic light detection algorithms in L4 autonomous driving.
-      * Implementation of CycleGAN to conduct unsupervised data augmentation, converting traffic light bulbs from left arrow to leftUturn arrow.
-      * Utilized OpenCV and mmcv to categorize and crop traffic lights bulbs from 350357 frames according to color, pattern and lighting conditions.
-      * Increased the classification accuracy for leftUturn traffic light from 78.41% to 87.27%, and the mean average precision from 93.01% to 94.80%.
+      * Responsible for long-tailed data augmentation, training data auto-labeling and cleaning, and model evaluation for traffic light detection algorithms.
+      * Implemented CycleGAN to conduct unsupervised data augmentation, converting traffic light bulbs from left arrow to round & leftUturn arrow.
+      * Constructed a traffic light auto-label model using quantized VoVNet-57, filtering 14,618 incorrect annotations from 1,160,513 labeled frames.
+      * Increased the classification accuracy for leftUturn traffic light from 78.41% to 87.27%, and the mean average precision from 93.01% to 94.80%
         
   - title: Research Assistant
     company: University of Notre Dame
