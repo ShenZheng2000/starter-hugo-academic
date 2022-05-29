@@ -19,18 +19,21 @@ bio: A lifetime programmer, a machine learning enthuasist, and a computer vision
 # Interests to show in About widget
 interests:
 - Deep Learning 
-- Machine Learning
 - Computer Vision
 - Computer Graphics
-- Graph Theory
+- Medical Image Analysis
+- Autonomous Driving
 
 # Education to show in About widget
 education:
   courses:
+  - course: MS in Computer Vision
+    institution: Carnegie Mellon University
+    year: 2024 (Expected)
   - course: BA in Mathematical Sciences
     institution: Wenzhou-Kean University
     year: 2021
-
+    
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -66,10 +69,10 @@ email: ""
 highlight_name: true
 ---
 
-Welcome! I am Shen Zheng (Lebron). I am currently a computer vision engineer at [Momenta](https://www.momenta.cn/), under the mentoring of Mr. Yongjun Yu and [Dr. Wangjiang Zhu](https://www.linkedin.com/in/%E6%9C%9B%E6%B1%9F-%E6%9C%B1-47946096/?originalSubdomain=cn). Before joining Momenta, I received my Bachelor's degree from [Wenzhou-Kean University](https://wku.edu.cn/en/) with a major in Mathematical Sciences and a minor in Economics. 
+Welcome! I am Shen Zheng (Lebron). I am an incoming [MSCV](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) student at [Carnegie Mellon University](https://www.cmu.edu/). I received my Bachelor's degree from [Wenzhou-Kean University](https://wku.edu.cn/en/) with a major in Mathematical Sciences (magna cum laude) and a minor in Economics. 
 
-During my undergrad, I was lucky to have [Dr. Gaurav Gupta](https://wku.edu.cn/faculty/gaurav-gupta/) as my academic and research supervisor. Apart from my study at Wenzhou-Kean University, I also attended the [iSURE](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) research program provided by the [University of Notre Dame](https://www.nd.edu/) in 2021 and was fortunate to have [Dr. Chaoli Wang](https://sites.nd.edu/chaoli-wang/) as my supervisor.
+During my undergrad, I was lucky to have [Dr. Gaurav Gupta](https://wku.edu.cn/faculty/gaurav-gupta/) as my academic and research supervisor. Apart from my study at Wenzhou-Kean University, I attended the [iSURE](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) research program provided by the [University of Notre Dame](https://www.nd.edu/) and was fortunate to have [Dr. Chaoli Wang](https://sites.nd.edu/chaoli-wang/) as my supervisor. I have also worked as a computer vision engineer at [Momenta](https://www.momenta.cn/), mentored by Mr. Yongjun Yu and [Dr. Wangjiang Zhu](https://www.linkedin.com/in/%E6%9C%9B%E6%B1%9F-%E6%9C%B1-47946096/?originalSubdomain=cn). Before joining Momenta,
 
-My research interests include deep learning, computer vision, and computer graphics. My paper has been accepted by premier conferences like [CVIP](https://cvip2020.iiita.ac.in/), [IJCNN](https://www.ijcnn.org/), and [WACV](https://wacv2022.thecvf.com/home). I have also served as the reviewer for [CVIP 2021](https://iitrpr.cvip2021.com/) and [AAAI 2022](https://aaai.org/Conferences/AAAI-22/). Currently, I am working on self-supervised and unsupervised image restoration and enhancement, object detection, semantic segmentation, and 3D reconstruction. I aim to join a master's program in the USA in 2022. 
+My research interests include deep learning, computer vision, computer graphics, medical image analysis, and autonomous driving. My paper has been accepted by premier conferences like [WACV](https://wacv2022.thecvf.com/home) and [CVPR](https://cvpr2022.thecvf.com/). Currently, I am working on zero-shot image enhancement, point cloud completion, medical image domain generalization, and GAN for image generation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
