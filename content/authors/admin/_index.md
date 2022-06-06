@@ -75,6 +75,6 @@ During my undergrad, I was lucky to have [Dr. Gaurav Gupta](https://wku.edu.cn/f
 
 My research interests include deep learning, computer vision, computer graphics, medical image analysis, and autonomous driving. My works have been accepted by premier conferences like [WACV](https://wacv2022.thecvf.com/home) and [CVPR](https://cvpr2022.thecvf.com/). Currently, I am working on zero-shot image enhancement, point cloud completion, medical image domain generalization, and GAN for image generation. 
 
-I am actively looking for a summer internship position in 2023. If interested, feel free to send me an email (zhengsh@kean.edu).
+I am actively looking for a summer internship position in 2023. If interested, feel free to send me an email (shenzhen@andrew.cmu.edu).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
