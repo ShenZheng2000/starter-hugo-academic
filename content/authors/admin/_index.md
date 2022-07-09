@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in Computer Vision
     institution: Carnegie Mellon University
-    year: 2024 (Expected)
+    year: 2023 (Expected)
   - course: BA in Mathematical Sciences
     institution: Wenzhou-Kean University
     year: 2021
