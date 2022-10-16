@@ -69,6 +69,8 @@ email: ""
 highlight_name: true
 ---
 
+**IMPORTANT NOTICE: This website will expire in November, 2023. Please go to my new website for recent updates: https://shenzheng2000.github.io/. Thanks!**
+
 Welcome! I am Shen Zheng (Lebron). I am currently a [MSCV](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) student at [Carnegie Mellon University](https://www.cmu.edu/). I received my Bachelor's degree from [Wenzhou-Kean University](https://wku.edu.cn/en/) with a major in Mathematical Sciences with a GPA of 3.80/4.00 and a Major GPA of 3.94/4.00.
 
 During my undergrad, I was lucky to have [Dr. Gaurav Gupta](https://wku.edu.cn/faculty/gaurav-gupta/) as my academic and research supervisor. I have also attended the [iSURE](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) research program provided by the [University of Notre Dame](https://www.nd.edu/) working with [Dr. Chaoli Wang](https://sites.nd.edu/chaoli-wang/). Besides, I have worked as a computer vision engineer at [Momenta](https://www.momenta.cn/), mentored by Mr. Yongjun Yu and [Dr. Wangjiang Zhu](https://www.linkedin.com/in/%E6%9C%9B%E6%B1%9F-%E6%9C%B1-47946096/?originalSubdomain=cn).
