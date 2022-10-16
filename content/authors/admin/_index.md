@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-**IMPORTANT NOTICE: This website will expire in November, 2023. Please go to my new website for recent updates: https://shenzheng2000.github.io/. Thanks!**
+**IMPORTANT NOTICE: This website will expire in November, 2022. Please go to my new website for recent updates: https://shenzheng2000.github.io/. Thanks!**
 
 Welcome! I am Shen Zheng (Lebron). I am currently a [MSCV](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/) student at [Carnegie Mellon University](https://www.cmu.edu/). I received my Bachelor's degree from [Wenzhou-Kean University](https://wku.edu.cn/en/) with a major in Mathematical Sciences with a GPA of 3.80/4.00 and a Major GPA of 3.94/4.00.
 
